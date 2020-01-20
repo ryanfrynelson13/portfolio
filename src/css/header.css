@@ -1,0 +1,44 @@
+body{
+    margin: 0 auto;
+}
+.header-bg{
+    background-color: black;
+    height: 100%;
+}
+header{
+    height:100vh;
+}
+.watch{
+    background-image: url('../img/philipp-katzenberger-jVx8JaO2Ddc-unsplash.jpg');  
+    background-size: cover;
+}
+.title{
+    top: 42%;
+    left:15%;
+    color: white;
+    font-size: 7vh;
+    font-weight: bolder;
+    font-family: 'Fugaz One', cursive;
+}
+.sub{
+    opacity: 0.8;
+    font-size: 4vh;
+    font-weight: normal;
+}
+.line{
+    width: 25%;
+}
+.fa-arrow-alt-circle-down{
+    color: white;
+    bottom: 5%;
+    left: 32%;
+}
+.fa-arrow-alt-circle-down:hover{
+    /* color: #FF4136; */
+    font-size: 8vh;
+    transition: 0.4s;
+    left: 31.7%;
+}
+
+
+
